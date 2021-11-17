@@ -60,4 +60,5 @@ Data post alteration:
 
 ![image](https://user-images.githubusercontent.com/92613639/142093555-eeecf8f5-d3f7-45fa-bad7-c31877b838bf.png)
 
+- Honestly, the district analysis did not change a whole lot after replacing the math and reading scores for the ninth graders at THS. This is because the tenth through twelfth graders were already performing highly such that a few inflated scores did not bump up the averages by much, as discussed earlier in the analysis. 
 - 
