@@ -56,3 +56,8 @@ Data post alteration:
     ![image](https://user-images.githubusercontent.com/92613639/142092279-7015d68e-865e-4ad4-aa27-471890d7a010.png)
 
 ## Summary
+- When we simply removed the ninth grade scores from THS, the scores dropped dramatically (see below). This is because we were now averaging 3 years of scores over 4 years of students, essentially giving all ninth graders zeroes for their scores. When we rectified that by omitting ninth graders from both the numerator and denomenator, we realized the scores went back up to essentially where they were prior to removing the ninth graders at all.
+
+![image](https://user-images.githubusercontent.com/92613639/142093369-69618e30-b045-4b08-aed3-7a73c77b3bb3.png)
+
+- 
